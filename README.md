@@ -4,6 +4,8 @@ To analyze the data collected through the API and web scraping in Part 1 last we
 This analysis will help gain insights from the data through exploratory data analysis (EDA), correlation analysis, and handling data quality issues such as missing values and outliers.
 Results will be presented with a dashboard on Tableau or Streamlit.
 
+---
+
 ## Business Questions & Hypotheses (English Premier League Focus)
 
 ### 1.A. **Goals For & Against vs League Winners**
@@ -53,6 +55,8 @@ Results will be presented with a dashboard on Tableau or Streamlit.
     - Kaggle API: Total shots (sh) / Shots on target (sot). Group by shots on target and total shots, take the average sot and sh, map Win, Lose, Draw points and compare to the W L D outcome.
     - Wikipedia Scrape: [wikipedia](https://en.wikipedia.org/wiki/2024%E2%80%9325_Premier_League#League_table) (league tables, form), not needed for this question.
 
+---
+
 **Wikipedia Web Scraping: [Wikipedia Premier League Table 2018-2025](https://en.wikipedia.org/wiki/List_of_Premier_League_seasons)**
 Wikipedia: 160 rows × 13 columns
 
@@ -61,6 +65,7 @@ Wikipedia: 160 rows × 13 columns
 [2020-2023](https://www.kaggle.com/datasets/toluabbass/premier-league-team-stats-2023-2020?select=matches.csv): 2280 rows × 28 columns
 [2023-2024](https://www.kaggle.com/datasets/whisperingkahuna/premier-league-2324-team-and-player-insights): 20 rows × 10 columns
 
+---
 
 **Which Dataframes can I use to answer each Business Question?**
 

@@ -37,6 +37,8 @@ Results will be presented with a dashboard on Tableau or Streamlit.
     - Kaggle API: Group by team, take the average possession per team per match/season depending on the dataframe.
     - Wikipedia Scrape: [wikipedia](https://en.wikipedia.org/wiki/2024%E2%80%9325_Premier_League#League_table) (league tables, form), not needed for this question.
 
+---
+
 ### 2.B. **Possession Home vs Away**
 
 - **Question:** *Is possession percentage higher at home or away games?*
@@ -58,12 +60,12 @@ Results will be presented with a dashboard on Tableau or Streamlit.
 ---
 
 **Wikipedia Web Scraping: [Wikipedia Premier League Table 2018-2025](https://en.wikipedia.org/wiki/List_of_Premier_League_seasons)**
-Wikipedia: 160 rows × 13 columns
+- Wikipedia: 160 rows × 13 columns
 
 **Kaggle API: dataframes 2018-2024**
-[2018-2020](https://www.kaggle.com/datasets/aditya2803/premier-league-team-data?select=Match+Info.csv): 2280 rows × 20 columns
-[2020-2023](https://www.kaggle.com/datasets/toluabbass/premier-league-team-stats-2023-2020?select=matches.csv): 2280 rows × 28 columns
-[2023-2024](https://www.kaggle.com/datasets/whisperingkahuna/premier-league-2324-team-and-player-insights): 20 rows × 10 columns
+- [2018-2020](https://www.kaggle.com/datasets/aditya2803/premier-league-team-data?select=Match+Info.csv): 2280 rows × 20 columns
+- [2020-2023](https://www.kaggle.com/datasets/toluabbass/premier-league-team-stats-2023-2020?select=matches.csv): 2280 rows × 28 columns
+- [2023-2024](https://www.kaggle.com/datasets/whisperingkahuna/premier-league-2324-team-and-player-insights): 20 rows × 10 columns
 
 ---
 

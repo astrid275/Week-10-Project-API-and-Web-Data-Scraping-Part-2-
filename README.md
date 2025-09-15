@@ -78,3 +78,22 @@ Results will be presented with a dashboard on Tableau or Streamlit.
 - df_18_20 + df_20_23 = possession, formation, result, venue, gf, ga, xg, xga
 - df_20_23 = possession, formation, result, venue, gf, ga, xg, xga, sh, sot
 - df_2024_cleaned = possession
+
+---
+
+**Recommendations:**
+- Aim for higher GF/GD ratio
+- Focus on attacking formations for higher GF/GD ratio
+- Improve on Possession to finish higher in the league and gain more points
+- Replicate Home Success for Away Games
+- Focus on Quality rather than Quantity of Shots
+
+**Takeaways:**
+- Teams with higher GF/GA ratios consistently earn more league points, scoring more while conceding less is a strong predictor of success.
+- GF/GA ratio higher for Top 3 vs Non-Top 3.
+- Formation: there is a correlation between more attacking formations (4-3-3 or 3-4-3) and higher GF/GA ratio.
+- Higher Average Possession = Higher Points
+- Spearman’s: Monotonic relationship. P-value < 0.05, the relationship is statistically significant.
+- Teams usually have similar possession at home and away, but on average, they keep the ball a little more when playing at home.
+- Shots volume matters less than accuracy (SOT).
+
